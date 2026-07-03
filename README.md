@@ -1,1 +1,1 @@
-# Calculator Project by using HTML, CSS and JavaScript
+# Calculator Project by using HTML, CSS and JavaScript!
